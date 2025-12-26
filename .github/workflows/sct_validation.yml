@@ -1,0 +1,30 @@
+name: SCT File Validation
+
+on:
+  push:
+    paths:
+      - '**.sct'
+      - 'scripts/validate_sct.py'
+      - '.github/workflows/sct_validation.yml'
+  pull_request:
+    paths:
+      - '**.sct'
+      - 'scripts/validate_sct.py'
+      - '.github/workflows/sct_validation.yml'
+
+jobs:
+  validate-sct:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run validation script
+        run: |
+          chmod +x scripts/validate_sct.py
+          python3 scripts/validate_sct.py

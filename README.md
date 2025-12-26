@@ -1,0 +1,17 @@
+# LFXX Aviso Sector Files
+
+This repository contains a collection of sector files (`.sct`) for various French airports. These files are use with EuroScope for the French vACC. They can be installed using the [AVISO Installer](https://github.com/arthurpar06/aviso-installer)
+
+## Included Airports
+
+- **LFBO**: Toulouse-Blagnac
+- **LFLL**: Lyon-Saint Exupéry
+- **LFML**: Marseille Provence
+- **LFPG**: Paris Charles de Gaulle
+  - Includes `dark` and `lite` variants
+- **LFPO**: Paris Orly
+- **LFQQ**: Lille Lesquin
+
+## Structure
+
+Each `.sct` file contains geographical information, airport layouts, and other sector definitions specific to the location.
