@@ -12,6 +12,7 @@ This repository contains a collection of sector files (`.sct`) for various Frenc
   - Includes `dark` and `lite` variants
 - **LFPO**: Paris Orly
 - **LFQQ**: Lille Lesquin
+- **LFRS**: Nantes Atlantique
 
 ## Structure
 
