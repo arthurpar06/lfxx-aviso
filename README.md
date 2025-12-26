@@ -5,6 +5,7 @@ This repository contains a collection of sector files (`.sct`) for various Frenc
 ## Included Airports
 
 - **LFBO**: Toulouse-Blagnac
+- **LFLB**: Chambéry
 - **LFLL**: Lyon-Saint Exupéry
 - **LFML**: Marseille Provence
 - **LFPG**: Paris Charles de Gaulle
