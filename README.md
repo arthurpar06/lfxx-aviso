@@ -17,3 +17,10 @@ This repository contains a collection of sector files (`.sct`) for various Frenc
 ## Structure
 
 Each `.sct` file contains geographical information, airport layouts, and other sector definitions specific to the location.
+
+## Contributing
+
+Contributions are welcome! You can contribute in two ways:
+
+1.  **Open a Pull Request**: Submit your changes directly via GitHub.
+2.  **Contact via Discord**: Send your files to **Arthur P. - 1632233** on the **French vACC Discord**.
