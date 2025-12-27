@@ -5,9 +5,12 @@ This repository contains a collection of sector files (`.sct`) for various Frenc
 ## Included Airports
 
 - **LFBO**: Toulouse-Blagnac
+- **LFBZ**: Biarritz
 - **LFLB**: Chambéry
 - **LFLL**: Lyon-Saint Exupéry
 - **LFML**: Marseille Provence
+- **LFMQ**: Le Castellet
+- **LFMY**: Salon de Provence
 - **LFPG**: Paris Charles de Gaulle
   - Includes `dark` and `lite` variants
 - **LFPO**: Paris Orly
