@@ -9,6 +9,7 @@ This repository contains a collection of sector files (`.sct`) for various Frenc
 - **LFLB**: Chambéry
 - **LFLL**: Lyon-Saint Exupéry
 - **LFML**: Marseille Provence
+- **LFMN**: Nice Côte d'Azur
 - **LFMQ**: Le Castellet
 - **LFMY**: Salon de Provence
 - **LFPG**: Paris Charles de Gaulle
