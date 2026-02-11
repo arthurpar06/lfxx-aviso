@@ -1,19 +1,19 @@
 [INFO]
-#define COLOR_Building_LFPO 4672836
-#define COLOR_Terminal_LFPO 3618615
-#define COLOR_Gate_LFPO 11053224
-#define COLOR_GrasSurface_LFPO 6055263
-#define COLOR_HardSurface1_LFPO 6776679
-#define COLOR_HardSurface2_LFPO 8816262
-#define COLOR_HardSurface3_LFPO 9671574
-#define COLOR_ProhibitedArea_LFPO 4672836
-#define COLOR_RunwayMarkings_LFPO 6776679
-#define COLOR_Taxiway_LFPO  6776679
-#define COLOR_Markings_LFPO 6776679
-#define COLOR_TaxiwayBlue_LFPO 6838088
+#define COLOR_Building_LFPO 4270101
+#define COLOR_Terminal_LFPO 9005137
+#define COLOR_Gate_LFPO 6904398
+#define COLOR_GrasSurface_LFPO 1641729
+#define COLOR_HardSurface1_LFPO 6904398
+#define COLOR_HardSurface2_LFPO 4798767
+#define COLOR_HardSurface3_LFPO 3943714
+#define COLOR_ProhibitedArea_LFPO 525571
+#define COLOR_RunwayMarkings_LFPO 16711422
+#define COLOR_Taxiway_LFPO  6904398
+#define COLOR_Markings_LFPO 16711422
+#define COLOR_TaxiwayBlue_LFPO 15238400
 #define COLOR_CAT1_LFPO 1499369
 #define COLOR_CAT3_LFPO 230
-#define COLOR_RunwayLFPO 5592405
+#define COLOR_RunwayLFPO 1578000
 
 [GEO]
 LFPO AVISO V3                            N048.43.58.495 E002.21.35.613 N048.43.58.173 E002.21.35.533 COLOR_HardSurface1_LFPO
