@@ -8,6 +8,7 @@ This repository contains a collection of sector files (`.sct`) for various Frenc
 - **LFBZ**: Biarritz
 - **LFLB**: Chambéry
 - **LFLL**: Lyon-Saint Exupéry
+- **LFLS**: Grenoble-Alpes-Isère
 - **LFML**: Marseille Provence
 - **LFMN**: Nice Côte d'Azur
 - **LFMQ**: Le Castellet
